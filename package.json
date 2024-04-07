@@ -1,16 +1,14 @@
 {
   "name": "node-pdf-utils",
-  "version": "1.0.2",
-  "description": "Utility helpers for working with PDF files.",
+  "version": "0.0.1",
+  "description": "Simplifying PDF file manipulation in Node.js with splitting, merging and converting capabilities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "lint": "eslint src --ext .ts",
     "lint:fix": "eslint --fix . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rimraf ./build && tsc",
-    "split": "node ./playground/split.js",
-    "join": "node ./playground/join.js"
+    "build": "rimraf ./build && tsc"
   },
   "repository": {
     "type": "git",
