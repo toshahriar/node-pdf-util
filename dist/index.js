@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.MergePdfAction = exports.PdfProcessingError = exports.FileNotFoundError = exports.Action = void 0;
+exports.SplitPdfAction = exports.MergePdfAction = exports.PdfProcessingError = exports.FileNotFoundError = exports.Action = void 0;
 /**
  * Represents a base class for actions.
  * @class Action
@@ -25,4 +25,10 @@ Object.defineProperty(exports, "PdfProcessingError", { enumerable: true, get: fu
  */
 var MergePdfAction_1 = require("./actions/MergePdfAction");
 Object.defineProperty(exports, "MergePdfAction", { enumerable: true, get: function () { return MergePdfAction_1.MergePdfAction; } });
+/**
+ * Represents an action to split PDF file(s) into several files.
+ * @class SplitPdfAction
+ */
+var SplitPdfAction_1 = require("./actions/SplitPdfAction");
+Object.defineProperty(exports, "SplitPdfAction", { enumerable: true, get: function () { return SplitPdfAction_1.SplitPdfAction; } });
 //# sourceMappingURL=index.js.map

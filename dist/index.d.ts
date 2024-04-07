@@ -18,3 +18,8 @@ export { PdfProcessingError } from './exceptions/PdfProcessingError';
  * @class MergePdfAction
  */
 export { MergePdfAction } from './actions/MergePdfAction';
+/**
+ * Represents an action to split PDF file(s) into several files.
+ * @class SplitPdfAction
+ */
+export { SplitPdfAction } from './actions/SplitPdfAction';
