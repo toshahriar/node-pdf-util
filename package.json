@@ -1,6 +1,6 @@
 {
   "name": "node-pdf-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simplifying PDF file manipulation in Node.js with splitting, merging and converting capabilities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
