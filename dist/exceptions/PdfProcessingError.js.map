@@ -1,0 +1,1 @@
+{"version":3,"file":"PdfProcessingError.js","sourceRoot":"","sources":["../../src/exceptions/PdfProcessingError.ts"],"names":[],"mappings":";;;AAAA;;;;GAIG;AACH,MAAa,kBAAmB,SAAQ,KAAK;IACzC;;;OAGG;IACH,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,oBAAoB,CAAC;IACrC,CAAC;CACJ;AATD,gDASC"}
