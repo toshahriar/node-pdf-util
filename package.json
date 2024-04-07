@@ -1,6 +1,6 @@
 {
-  "name": "node-pdf-utils",
-  "version": "0.1.0",
+  "name": "node-pdf-util",
+  "version": "0.2.0",
   "description": "Simplifying PDF file manipulation in Node.js with splitting, merging and converting capabilities.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toshahriar/node-pdf-utils.git"
+    "url": "git+https://github.com/toshahriar/node-pdf-util.git"
   },
   "keywords": [
     "pdf",
@@ -21,9 +21,9 @@
   "author": "Shahriar Shabbir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/toshahriar/node-pdf-utils/issues"
+    "url": "https://github.com/toshahriar/node-pdf-util/issues"
   },
-  "homepage": "https://github.com/toshahriar/node-pdf-utils#readme",
+  "homepage": "https://github.com/toshahriar/node-pdf-util#readme",
   "dependencies": {
     "pdf-lib": "^1.17.1",
     "sharp": "^0.33.3"
